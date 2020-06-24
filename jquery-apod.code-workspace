@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "../MTBC"
+		},
+		{
+			"path": "../game"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../QColeman16.github.io"
+		},
+		{
+			"path": "../robots.txt"
+		},
+		{
+			"path": "../bootstrap"
+		},
+		{
+			"path": "../example.com"
+		},
+		{
+			"path": "../dist/css"
+		},
+		{
+			"path": "../draw"
+		},
+		{
+			"path": "../cake.example.com"
+		},
+		{
+			"path": "../php"
+		}
+	],
+	"settings": {}
+}
