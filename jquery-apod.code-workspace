@@ -32,6 +32,9 @@
 		},
 		{
 			"path": "../php"
+		},
+		{
+			"path": "../../../home/dev/mean.example.com"
 		}
 	],
 	"settings": {}
